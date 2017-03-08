@@ -1,4 +1,3 @@
-︠eaf9a4e4-28f4-4848-a366-026eff74bda0︠
 from sage.misc.prandom import randrange, randint
 
 print '='*16
@@ -32,10 +31,6 @@ g = (x - m)
 print 'f', f
 print 'm', m
 print 'g', g
-
-print '='*16
-︡8e951f86-31f7-43ae-851e-4ef0241f2575︡{"stdout":"================\n"}︡{"stdout":"PART 1\n"}︡{"stdout":"================\n"}︡{"stdout":"p 10007\n"}︡{"stdout":"b 680\n"}︡{"stdout":"a 6534\n"}︡{"stdout":"k 4.56843449239e+18\n"}︡{"stdout":"debug 4.57163239653e+22\n"}︡{"stdout":"f x^8 - 6534\n"}︡{"stdout":"m 680.0\n"}︡{"stdout":"g x - 680.0\n"}︡{"stdout":"================\n"}︡{"done":true}
-︠6b396790-23c3-4fd2-b2b8-646f422d204as︠
 
 print '='*16
 print 'LEVEL 2: find a & b'
@@ -76,14 +71,3 @@ print 'a', a_
 print 'b', b_
 
 print '='*16
-︡2fd2cc5c-e4de-447d-af1d-be26c360708a︡{"stdout":"================\n"}︡{"stdout":"LEVEL 2: find a & b\n"}︡{"stdout":"================\n"}︡{"stdout":"c 2022\n"}︡{"stdout":"a -2016\n"}︡{"stdout":"b 756\n"}︡{"stdout":"================\n"}︡{"done":true}
-︠1d3964b6-3531-405e-a196-040522d63bb6︠
-
-
-
-
-
-
-
-
-
